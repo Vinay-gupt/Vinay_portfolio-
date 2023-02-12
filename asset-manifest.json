@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Vinay_portfolio-/static/css/main.4b4a7fd4.css",
-    "main.js": "/Vinay_portfolio-/static/js/main.1bd75e36.js",
+    "main.js": "/Vinay_portfolio-/static/js/main.d634f45f.js",
     "static/js/787.1ed0c42c.chunk.js": "/Vinay_portfolio-/static/js/787.1ed0c42c.chunk.js",
     "static/media/home1.webp": "/Vinay_portfolio-/static/media/home1.fabacecf4f20c769626c.webp",
     "index.html": "/Vinay_portfolio-/index.html",
     "main.4b4a7fd4.css.map": "/Vinay_portfolio-/static/css/main.4b4a7fd4.css.map",
-    "main.1bd75e36.js.map": "/Vinay_portfolio-/static/js/main.1bd75e36.js.map",
+    "main.d634f45f.js.map": "/Vinay_portfolio-/static/js/main.d634f45f.js.map",
     "787.1ed0c42c.chunk.js.map": "/Vinay_portfolio-/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4b4a7fd4.css",
-    "static/js/main.1bd75e36.js"
+    "static/js/main.d634f45f.js"
   ]
 }
