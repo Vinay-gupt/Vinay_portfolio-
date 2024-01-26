@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Vinay_portfolio-/static/css/main.03e76b34.css",
-    "main.js": "/Vinay_portfolio-/static/js/main.50bf8f43.js",
-    "static/js/787.1ed0c42c.chunk.js": "/Vinay_portfolio-/static/js/787.1ed0c42c.chunk.js",
+    "main.css": "/Vinay_portfolio-/static/css/main.302e48ed.css",
+    "main.js": "/Vinay_portfolio-/static/js/main.54d534ef.js",
+    "static/js/787.7da95b79.chunk.js": "/Vinay_portfolio-/static/js/787.7da95b79.chunk.js",
     "static/media/home1.webp": "/Vinay_portfolio-/static/media/home1.fabacecf4f20c769626c.webp",
     "index.html": "/Vinay_portfolio-/index.html",
-    "main.03e76b34.css.map": "/Vinay_portfolio-/static/css/main.03e76b34.css.map",
-    "main.50bf8f43.js.map": "/Vinay_portfolio-/static/js/main.50bf8f43.js.map",
-    "787.1ed0c42c.chunk.js.map": "/Vinay_portfolio-/static/js/787.1ed0c42c.chunk.js.map"
+    "main.302e48ed.css.map": "/Vinay_portfolio-/static/css/main.302e48ed.css.map",
+    "main.54d534ef.js.map": "/Vinay_portfolio-/static/js/main.54d534ef.js.map",
+    "787.7da95b79.chunk.js.map": "/Vinay_portfolio-/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.03e76b34.css",
-    "static/js/main.50bf8f43.js"
+    "static/css/main.302e48ed.css",
+    "static/js/main.54d534ef.js"
   ]
 }
